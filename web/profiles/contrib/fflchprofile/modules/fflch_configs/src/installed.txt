@@ -11,7 +11,6 @@ ckeditor_bootstrap_tabs
 ckeditor_bootstrap_grid
 ckeditor_bgimage
 ckeditor_youtube
-ckeditor_markdown
 ckeditor_images_gallery
 ckeditor_readmore
 ckeditor_uploadimage

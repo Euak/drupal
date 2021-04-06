@@ -1,3 +1,4 @@
+uuid: null
 langcode: pt-br
 status: true
 dependencies:
@@ -129,14 +130,13 @@ settings:
           name: code
           items:
             - Source
-            - Markdown
             - insert_view_adv
             - Resize
   plugins:
-    stylescombo:
-      styles: ''
     language:
       language_list: all
+    stylescombo:
+      styles: ''
     font:
       font_names: ''
       font_sizes: ''

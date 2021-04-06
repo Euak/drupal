@@ -1,6 +1,9 @@
-langcode: en
+uuid: 90fce31a-ef2e-47a9-ba22-d512a4532561
+langcode: pt-br
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: KV2eyuDk4Ux0da6fu6QsTUf_49rPDXilNurV5nRZqJE
 formId: user_pass
 captchaType: default
 label: null
